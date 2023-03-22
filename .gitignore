@@ -1,0 +1,5 @@
+#mongodb
+db
+
+#varibles de entorno mongodb
+.env
